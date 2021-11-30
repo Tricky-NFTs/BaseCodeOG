@@ -5,7 +5,7 @@ A simple program to help creating a base for RMRK2 NFTs.
 
 Requirements:
 If you're using the python code TNA.ico needs to be placed in the same directory as BaseCodeOG.py.
-A basic understanding of how RMRK2 NFTs are created for the right input. The program does NOT check whether the input is correct and only checks if there is input at all in required fields.
+A basic understanding of how RMRK2 NFTs are created for the right input. The program does NOT check whether the input is correct and only checks if there is input at all in the required fields.
 
 Output:
 It can output the base as json and/or url-encoded .txt files as well as the list of part names added to the base.
