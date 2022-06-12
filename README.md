@@ -10,6 +10,8 @@ A basic understanding of how RMRK2 NFTs are created for the right input. The pro
 Output:
 It can output the base as json and/or url-encoded .txt files as well as the list of part names added to the base.
 
+Note: While the .py file was updated to include more base types, themes and part lists the .exe is not yet updated and is still the first version
+
 **ATTENTION:**
 The BaseCodeOG.exe includes Pythons tkinter, urllib and webbrowser libraries which means by using this .exe you agree to Pythons PSF license:
 (Source: https://docs.python.org/3/license.html#psf-license-agreement-for-python-release )
